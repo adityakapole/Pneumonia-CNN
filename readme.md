@@ -35,7 +35,7 @@ Launch Jupyter Notebook using the following command:
   jupyter notebook
 ```
 ### Access the Notebook:
-Open the 'main.ipynb' file in the Jupyter Notebook interface and try the model using Gradio Interface 
+Open the 'INTERFACE.ipynb' file in the Jupyter Notebook interface and try the model using Gradio Interface 
 
 <br>
 
