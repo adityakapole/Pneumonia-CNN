@@ -35,7 +35,7 @@ Launch Jupyter Notebook using the following command:
   jupyter notebook
 ```
 ### Access the Notebook:
-Open the 'main.ipynb' file in the Jupyter Notebook interface and try the model using Gradio Interface 
+Open the 'INTERFACE.ipynb' file in the Jupyter Notebook interface and try the model using Gradio Interface 
 
 <br>
 
@@ -55,11 +55,18 @@ The Xception model, a deep convolutional neural network, excels in feature extra
 
 ## Screenshots
 <div align="center">
-  <img src="" alt="SS1" width="600">
+  <img src="assets/ss1.png" alt="SS1" width="1000">
 </div>
 <div align="center">
-  <img src="" alt="SS2" width="600">
+  <img src="assets/ss2.png" alt="SS2" width="1000">
 </div>
+
+<br>
+
+## Dataset 
+
+You can access the dataset using this  url -
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
 
